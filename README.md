@@ -1,12 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc694&height=120&section=header"/>
 
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=25&pause=1000&color=CA9A6F&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hi!+i'm+Raphaela+Sim%C3%B5es!;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%3A)" alt="Typing SVG" /></a>
-  
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=500&size=35&color=CA9A6F&width=435&lines=%E3%85%A4%E3%85%A4Hi!+I'm+Raphaela+Sim%C3%B5es!;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%3A)" alt="Typing SVG" /></a>
 </div>
 
 ##
-<img width=15% src="https://github.com/user-attachments/assets/d9830176-676e-4776-968b-00ecf9490831"/> <img width=15% src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <img width=10.5% src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <img width=13.5% src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="top left corner"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=500&pause=2000&color=CA9A6F&width=435&lines=How+to+reach+me..." alt="Typing SVG" /></a>
+</div>
+
+<img width=10% src="https://github.com/user-attachments/assets/d9830176-676e-4776-968b-00ecf9490831"/> <img width=11% src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <img width=7.7% src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <img width=9.8% src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 ##
 
@@ -19,21 +22,27 @@
 
 ##
 
+
+<div align="left"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=500&pause=2000&color=CA9A6F&width=435&lines=I%E2%80%99m+currently+learning..." alt="Typing SVG" /></a>
+</div>
+
+ <div align="right">
+     <img width=13% src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+     <img width=9% src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+     <img width=8% src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+     <img width=20% src="https://github.com/user-attachments/assets/5bcb76c3-20a9-442e-a5cf-f39368c92951"/>
+  </div>
+
+##
+
+  <div align="center">
+      <img width=80% src="https://github.com/user-attachments/assets/c9c1b7a4-026b-40f7-9fd3-4fb33f0419bf"/>
+  </div>
+
+
+
+##
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc694&height=120&section=footer"/>
 
-
-
-<!--
-**RaphaSimoes/RaphaSimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
