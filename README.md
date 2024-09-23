@@ -19,7 +19,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=500&pause=2000&color=CA9A6F&width=435&lines=How+to+reach+me..." alt="Typing SVG" /></a>
 </div>
 
-<img width=10% src="https://github.com/user-attachments/assets/d9830176-676e-4776-968b-00ecf9490831"/> <img width=11.4% src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <img width=8% src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <img width=10.3% src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img width=10% src="https://github.com/user-attachments/assets/d9830176-676e-4776-968b-00ecf9490831"/> <a href="https://www.instagram.com/raphhadaily" target="_blank"><img width=11.4% src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:raphaaelasimoes@gmail.com" target="_blank"><img width=8% src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="www.linkedin.com/in/
+raphaela-simões" target="_blank"><img width=10.3% src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ##
 
